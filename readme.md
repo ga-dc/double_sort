@@ -21,5 +21,3 @@ You can use standard library sort functions, and should assume that all inputs w
 ["16", "8", "4", "salt", "baking", "soda"]
 => ["4", "8", "16", "baking", "salt", "soda"]
 
-["2", "4", "banana", "1", "vanilla", "flour"]
-=> ["1", "2", "banana", "4", "flour", "vanilla"]
